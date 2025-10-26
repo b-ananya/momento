@@ -34,4 +34,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 - Claude
-- Letta
